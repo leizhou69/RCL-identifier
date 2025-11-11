@@ -36,6 +36,7 @@ wheels/
 *.pkl
 *.npz
 data/embeddings/
+data/validation_reports/
 
 # Experiments
 runs/*/
@@ -61,3 +62,5 @@ logs/
 # Temp
 tmp/
 temp/
+# workspace file
+rcl.code-workspace
