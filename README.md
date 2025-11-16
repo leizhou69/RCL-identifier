@@ -297,4 +297,4 @@ If you use this software, please cite the original work and acknowledge this imp
 
 ## License
 
-[Specify your license here]
+MIT license
